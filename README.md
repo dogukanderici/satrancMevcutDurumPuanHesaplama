@@ -47,8 +47,9 @@ Satranç taşalrının konumu bir .txt dosyasında programa gönderilmiştir.
 ## Sonuçlar <a name="baslik3"></a>
 Programın sonuçları sonuçlar.txt isimli bir dosyaya kaydedilmektedir. Şekil 2'de verilmiş olan örenk durumun çıktısı aşağıda verilmiştir.
 
-Tahta Adı     Sonuçlar
-board4.txt		Siyah:108	Beyaz:109
+| Tahta Adı | Sonuçlar | |
+| --- | --- | --- |
+| board4.txt | Siyah:139 | Beyaz:139 |
 
 ## Yazarlar <a name="baslik4"></a>
    - Doğukan Derici
