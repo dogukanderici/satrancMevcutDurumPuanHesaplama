@@ -40,8 +40,8 @@ Tablo 2 - Tehdit altındaki satranç taşının puan karşılığı
 
 ![alt text](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/CHESScom/phphK5JVu.png)
 
-Beyaz = (3*2)+(3*2)+(5*2)+(8*1)+9+100 = 139
-Siyah = (3*2)+(3*2)+(5*2)+(8*1)+9+100 = 139 olarak hesaplanır.
+Beyaz = (3x2)+(3x2)+(5x2)+(8x1)+9+100 = 139
+Siyah = (3x2)+(3x2)+(5x2)+(8x1)+9+100 = 139 olarak hesaplanır.
 
 Satranç taşalrının konumu bir .txt dosyasında programa gönderilmiştir.
 ## Sonuçlar <a name="baslik3"></a>
