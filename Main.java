@@ -140,15 +140,5 @@ public class Main extends PuanHesaplama{
                 System.out.println("GEÇERSİZ İŞLEM GİRDİNİZ. LÜTFEN TEKRRA DENEYİNİZ.");
             }
         }
-        
-        /*ortak = new Piyon("board1.txt");
-        ortak2 = new At("board1.txt");
-        ortak3 = new Vezir("board1.txt");
-        //double puan_tehdit_edilen_renk=tehditHesapla("tahta numrası",tehdit_eden_piyon_rengi, tehdit_eden_at_rengi,tehdit_eden_vezir_rengi, tehdit_edilen_tas_rengi);
-        
-        double puan_beyaz=tehditHesapla("board1.txt",ortak.tehditYonleri("ps"),ortak2.tehditYonleri("as"),ortak3.tehditYonleri("vs"),"b");
-        double puan_siyah=tehditHesapla("board1.txt",ortak.tehditYonleri("pb"),ortak2.tehditYonleri("ab"),ortak3.tehditYonleri("vb"),"s");
-        System.out.println(puan_beyaz);
-        System.out.println(puan_siyah);*/
     }
 }
