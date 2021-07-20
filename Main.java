@@ -97,7 +97,7 @@ public class Main extends PuanHesaplama{
                         + "ss -> şah siyah      sb -> şah beyaz\n"
                         + "-- = boş kare\n"
                         + "Kısaltmaları aralarında boşluk bırakarak ve 8x8 kare olacak şekilde doldurunuz.\n\n"
-                        + "Lütfen kaydedeceiğiniz koya adını giriniz: ");
+                        + "Lütfen kaydedeceiğiniz dosya adını giriniz: ");
                 String dosyaAdi = scan.nextLine();
                 File dosya = new File(System.getProperty("user.dir")+"\\"+dosyaAdi);
                 System.out.println(System.getProperty("user.dir")+"\\"+dosyaAdi);
